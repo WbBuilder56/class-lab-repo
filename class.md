@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Saad Anwar]  
+- Certification: [Meta Frontend Developer Course]  
 
 ## Instructions
 Please replace the placeholders with your details:
